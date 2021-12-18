@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" /><a/> 
 <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="45px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" /><a/> 
-<a href="https://dgraph.io/" target="_blank"><img alt="Dgraph" width="35px" src="https://symbols.getvecta.com/stencil_78/54_dgraph-icon.5071f14977.svg" /><a/>
+<a href="https://dgraph.io/" target="_blank"><img alt="Dgraph" width="35px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_c11a40a5179615f72f0b845b10c0d1fe/dgraph.png" /><a/>
 <a href="https://redis.io/" target="_blank"><img alt="Redis" width="45px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_plain_logo_icon_146366.png" /><a/>
 <a href="https://www.elastic.co/" target="_blank"><img alt="Elasticsearch" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKCCBaeA0hltuHtFompIjxKTWYD2d4bw73MoHcie2rN5ixKYepd3wllXzK9c78G3EazLA&usqp=CAU" /><a/>
 <a href="https://kafka.apache.org/" target="_blank"><img alt="Apache Kafka" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_logo_icon_167865.png" /><a/>
