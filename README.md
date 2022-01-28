@@ -5,8 +5,8 @@
 ### Languages:
 
 <p align="left">
-<a href="https://golang.org/" target="_blank"><img alt="Go" width="45px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" /><a/>
 <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" width="45px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/rust_logo_icon_144918.png" /><a/>
+<a href="https://golang.org/" target="_blank"><img alt="Go" width="45px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" /><a/>
 <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" /><a/>
 <a href="https://www.javascript.com/" target="_blank"><img alt="JS" width="45px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" /><a/>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img alt="Css" width="45px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" /><a/>
