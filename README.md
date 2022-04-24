@@ -24,7 +24,7 @@
 <a href="https://kafka.apache.org/" target="_blank"><img alt="Apache Kafka" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_logo_icon_167865.png" /><a/>
 <a href="https://www.rabbitmq.com/" target="_blank"><img alt="RabbitMQ" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/rabbitmq_logo_icon_170810.png" /><a/>
 <!-- <a href="https://www.consul.io/" target="_blank"><img alt="Consul" width="42px" src="https://symbols.getvecta.com/stencil_77/63_consul-icon.0452948395.svg" /><a/> -->
-<a href="https://www.docker.com/" target="_blank"><img alt="Docker" width="50px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" /><a/>
+<!-- <a href="https://www.docker.com/" target="_blank"><img alt="Docker" width="50px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" /><a/> -->
 <a href="https://kubernetes.io/" target="_blank"><img alt="Kubernetes" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" /><a/>
 <a href="https://prometheus.io/" target="_blank"><img alt="Prometheus" width="45px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_prometheus_icon_130229.png" /><a/>
 <a href="https://grafana.com/" target="_blank"><img alt="Grafana" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png" /><a/>
